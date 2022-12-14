@@ -55,7 +55,6 @@ class MainActivity : AppCompatActivity(), TaskAdapter.TaskClickInterface {
         intent.putExtra("taskTime", getTime(task.time))
         intent.putExtra("taskID", task.id)
         startActivity(intent)
-        finish()
     }
 
     fun initSwipe() {
