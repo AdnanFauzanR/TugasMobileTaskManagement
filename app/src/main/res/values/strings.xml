@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskManagement</string>
+    <string-array name="taskPriority">
+        <item>Penting Mendesak</item>
+        <item>Penting Tidak Mendesak</item>
+        <item>Tidak Penting Mendesak</item>
+        <item>Tidak Penting Tidak Mendesak</item>
+    </string-array>
+</resources>
